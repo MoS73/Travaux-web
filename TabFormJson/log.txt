@@ -1,0 +1,42 @@
+[2022-01-07 10:16:49] - Validation de formulaire échoué : [ Le prénom est obligatoire - L'email est obligatoire - L'email est mal formé - La date de naissance est obligatoire - La date de naissance est mal formée - Le mot de passe ne peut pas être vide - Le genre est obligatoire - La nationalité est obligatoire - Merci de critiquer en lachant un commentaire]
+[2022-01-07 10:16:53] - Validation de formulaire échoué : [ Le nom est obligatoire - L'email est obligatoire - L'email est mal formé - La date de naissance est obligatoire - La date de naissance est mal formée - Le mot de passe ne peut pas être vide - Le genre est obligatoire - La nationalité est obligatoire - Merci de critiquer en lachant un commentaire]
+[2022-01-07 10:17:30] - Validation de formulaire échoué : [ Le nom est obligatoire - Le prénom est obligatoire - L'email est obligatoire - L'email est mal formé - La date de naissance est obligatoire - La date de naissance est mal formée - Le genre est obligatoire - La nationalité est obligatoire - Merci de critiquer en lachant un commentaire]
+[2022-01-07 10:17:35] - Validation de formulaire échoué : [ Le nom est obligatoire - Le prénom est obligatoire - L'email est obligatoire - L'email est mal formé - La date de naissance est obligatoire - La date de naissance est mal formée - Le mot de passe ne peut pas être vide - Le genre est obligatoire - La nationalité est obligatoire - Merci de critiquer en lachant un commentaire]
+[2022-01-07 10:17:40] - Validation de formulaire échoué : [ Le nom est obligatoire - Le prénom est obligatoire - L'email est obligatoire - L'email est mal formé - La date de naissance est obligatoire - La date de naissance est mal formée - Le mot de passe ne peut pas être vide - Le genre est obligatoire - La nationalité est obligatoire - Merci de critiquer en lachant un commentaire]
+[2022-01-07 10:22:47] - Validation de formulaire échoué : [ L'email est mal formé]
+[2022-01-07 13:02:47] - Validation de formulaire réussi
+[2022-01-10 07:51:00] - Validation de formulaire réussi
+[2022-01-10 07:54:52] - Validation de formulaire réussi
+[2022-01-10 07:56:36] - Validation de formulaire réussi
+[2022-01-10 08:39:11] - Validation de formulaire réussi
+[2022-01-10 10:04:58] - Validation de formulaire échoué : [ the password does not meet the requirements!]
+[2022-01-10 10:08:34] - Validation de formulaire échoué : [ the password does not meet the requirements!]
+[2022-01-10 10:09:10] - Validation de formulaire échoué : [ the password does not meet the requirements!]
+[2022-01-10 10:10:29] - Validation de formulaire échoué : [ the password does not meet the requirements!]
+[2022-01-10 10:10:54] - Validation de formulaire échoué : [ the password does not meet the requirements!]
+[2022-01-10 10:11:19] - Validation de formulaire échoué : [ the password does not meet the requirements!]
+[2022-01-10 10:48:57] - Validation de formulaire échoué : [ the password does not meet the requirements!]
+[2022-01-10 10:48:58] - Validation de formulaire échoué : [ the password does not meet the requirements!]
+[2022-01-10 11:10:57] - Validation de formulaire réussi
+[2022-01-10 11:17:29] - Validation de formulaire réussi
+[2022-01-10 11:22:50] - Validation de formulaire réussi
+[2022-01-10 11:29:23] - Validation de formulaire réussi
+[2022-01-10 11:30:49] - Validation de formulaire échoué : [ Le genre est obligatoire]
+[2022-01-10 12:33:41] - Validation de formulaire échoué : [ Le genre est obligatoire]
+[2022-01-10 12:46:08] - Validation de formulaire réussi
+[2022-01-10 12:47:35] - Validation de formulaire réussi
+[2022-01-10 12:51:34] - Validation de formulaire réussi
+[2022-01-10 12:53:09] - Validation de formulaire réussi
+[2022-01-10 12:55:27] - Validation de formulaire réussi
+[2022-01-10 12:56:57] - Validation de formulaire réussi
+[2022-01-10 12:58:11] - Validation de formulaire réussi
+[2022-01-10 12:59:57] - Validation de formulaire réussi
+[2022-01-10 13:15:15] - Validation de formulaire réussi
+[2022-01-10 14:13:30] - Validation de formulaire réussi
+[2022-01-10 14:45:01] - Validation de formulaire réussi
+[2022-01-10 14:45:51] - Validation de formulaire réussi
+[2022-01-11 12:54:19] - Validation de formulaire réussi
+[2022-01-11 12:55:17] - Validation de formulaire réussi
+[2022-01-11 12:59:30] - Validation de formulaire réussi
+[2022-01-11 13:22:28] - Validation de formulaire réussi
+[2022-01-11 14:12:44] - Validation de formulaire réussi
